@@ -1,16 +1,26 @@
-### Hi there 👋
-
 <!--
-**fianbro/fianbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fianbro/fianbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+# Fian014✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Sc website  <a href="https:\\fianbro.github.io">/>Click in here</a>
+
+</p>
+
+
+<p align="center">
+<img src="https://telegra.ph/file/543eaac8c8082f38eeb21.jpg" width="200" height="200">
+</p>
+
+# stats🌱
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fianbro&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fianbro&hide=typescript,html,php)](https://github.com/fianbro/Fian014#readme)
+
+
+<!-- 
+# Credits
+
+Created by = @fian014 -->
