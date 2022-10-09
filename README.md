@@ -1,15 +1,12 @@
-<!--
-**fianeunoia/fianeunoia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 ## 👋 Hello, I'm Fian014
 
 
 ![Banner](https://fian014.site/assets/img/yui.webp) <br />
-[<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/fiannnn14)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/fiannn14_)
+[<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/fiannnn14)
 
 ### ℹ &nbsp;Personal Stuffs
-- 💻 I’m currently learning
+- 💻 I’m currently learning programming language 'React'
 - 🌱 I'm currently working on my side project.
 - Primary Language(s): &nbsp;
 
