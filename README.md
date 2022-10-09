@@ -26,4 +26,6 @@ Sc website  <a href="https:\\fianbro.github.io">/>Click in here</a>
 ### 📎 &nbsp;GitHub Analytics
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FianEunoia&show_icons=true&theme=tokyonight)
+![Fian014 GitHub stats](https://github-readme-stats.vercel.app/api?username=FianEunoia&show_icons=true&theme=tokyonight)
+
+[![Fian014 Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fianeunoia&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
