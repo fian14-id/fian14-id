@@ -3,13 +3,8 @@
 
 ## 👋 Hello, I'm Fian014
 
-<!-- <p align="center">
-Sc website  <a href="https:\\fianbro.github.io">/>Click in here</a>
 
-</p> -->
-
-
-![Banner](banner.jpeg) <br />
+![Banner](https://fian014.site/assets/img/yui.webp) <br />
 [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/fiannnn14)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/fiannn14_)
 
