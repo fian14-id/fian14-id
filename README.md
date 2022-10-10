@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/fiannnn14)
 
 ### ℹ &nbsp;Personal Stuffs
-- 💻 I’m currently learning programming language 'React'
+- 💻 I’m studying to be a Front-End Developer
 - 🌱 I'm currently working on my side project.
 - Primary Language(s): &nbsp;
 
