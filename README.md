@@ -17,10 +17,11 @@
 
  <!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
   ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) -->
-
+<!-- 
 ### 📎 &nbsp;GitHub Analytics
 ---
 
 ![Fian014 GitHub stats](https://github-readme-stats.vercel.app/api?username=FianEunoia&show_icons=true&theme=tokyonight)
 
 [![Fian014 Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fianeunoia&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
+ -->
