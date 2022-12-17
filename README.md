@@ -15,8 +15,6 @@
 
 <br />
 
-___
-
 <details>
   <summary><h3>&nbsp;GitHub Analytics</h3></summary>
   <br />
