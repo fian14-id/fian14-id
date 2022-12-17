@@ -7,7 +7,7 @@
   [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/fiannn14_)
   [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/fiannnn14)
 
-> <h3>Personal Stuffs</h3>
+> <h3>&nbsp;Personal Stuffs</h3>
 >
 > - 💻 I’m student
 > - 🌱 I'm currently working on my side project.
