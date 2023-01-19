@@ -37,9 +37,9 @@
 ### 📎 &nbsp;GitHub Analytics
 ---
 
-![Fian014 GitHub stats](https://github-readme-stats.vercel.app/api?username=FianEunoia&show_icons=true&theme=tokyonight)
+![Fian014 GitHub stats](https://github-readme-stats.vercel.app/api?username=fian14-id&show_icons=true&theme=tokyonight)
 
  ![Banner](https://i.pinimg.com/originals/98/28/6a/98286a2243ada070aef5a6925dd3bc54.gif) <br />
 
-[![Fian014 Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fianeunoia&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
+[![Fian014 Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fian14-id&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
  -->
