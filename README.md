@@ -16,7 +16,7 @@
 
 <br />
 
-<details>
+<details align="center">
   <summary><h3>&nbsp;GitHub Analytics</h3></summary>
   <br />
   
