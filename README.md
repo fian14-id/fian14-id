@@ -5,7 +5,7 @@
  
 [![Fian014](https://i.pinimg.com/originals/98/28/6a/98286a2243ada070aef5a6925dd3bc54.gif "Fian014")](https://fian014.site)
 ![](https://komarev.com/ghpvc/?username=FianEunoia&style=for-the-badge&color=blueviolet)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/fiannn14_)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/alfn.arsyd_)
 [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/fiannnn14)
 
 > <h3>Personal Stuffs</h3>
