@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hello, I'm Fian014</h1>
-<p align="center">Don't expect if you don't want to be disappointed</p> <br />
-<p align="center">Do not have a personal website or website portfolio is incomplete.</p>
+<!-- <p align="center">Don't expect if you don't want to be disappointed</p> <br /> -->
+<p align="center">Do not have a personal website or website portfolio is incomplete.</p> <br />
 
  
 [![Fian014](https://i.pinimg.com/originals/98/28/6a/98286a2243ada070aef5a6925dd3bc54.gif "Fian014")](https://fian014.site)
